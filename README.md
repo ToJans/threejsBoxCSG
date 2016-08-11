@@ -37,3 +37,6 @@ Simple Box CSG substraction for `THREE.Box3`.
 - Red: the subtractors
 - Blue: the remains of the subtractees
 
+## It also works in 3D
+
+![The 3D example](doc/example3D.png)
