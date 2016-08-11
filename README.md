@@ -39,4 +39,4 @@ Simple Box CSG substraction for `THREE.Box3`.
 
 ## It also works in 3D
 
-![The 3D example](doc/example3D.png)
+![The 3D example](docs/example3D.png)
