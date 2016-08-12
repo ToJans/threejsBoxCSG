@@ -10,6 +10,7 @@
             var sut = state.todo.pop();
             if (sut.min[dim] > box.max[dim] ||
               sut.max[dim] < box.min[dim]) {
+                done.push(sut);
                 continue;
             }
 
