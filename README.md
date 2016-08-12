@@ -27,7 +27,7 @@ Simple Box CSG substraction for `THREE.Box3`.
 
     var subtractees = [b1,b2];
     var subtractors = [b3,b4];
-    var result      = new BoxCSG.subtract(subtractees, subtractors);
+    var result      = new BoxCSG().subtract(subtractees, subtractors);
 
     // result = an array of the subtracted boxes that remain
 ```
